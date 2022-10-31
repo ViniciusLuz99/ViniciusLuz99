@@ -35,5 +35,5 @@
 <img src="https://komarev.com/ghpvc/?username=ViniciusLuz99&&style=flat-square" align="left" /> 
 </div>  
 
-
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/sony/336/flag-brazil_1f1e7-1f1f7.png">
 
