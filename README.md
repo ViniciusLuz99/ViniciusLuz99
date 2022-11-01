@@ -6,9 +6,10 @@
 <!--Mostra o "status" do perfil-->
 <div align="center">
   <a href="https://github.com/ViniciusLuz99">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ViniciusLuz99&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLuz99&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ViniciusLuz99&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLuz99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 <!--Linguagens que vc sabe usar-->
 <div align="left">  
