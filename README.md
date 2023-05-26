@@ -9,7 +9,8 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ViniciusLuz99&show_icons=true&include_all_commits=true&count_private=true&theme=dark&amp"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLuz99&layout=compact&langs_count=7&theme=dark&amp"/>
 </div>
-
+<!-- teste-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusluz99&" alt="viniciusluz99" /></p>
 
 
 <!--Linguagens que vc sabe usar-->
@@ -36,13 +37,6 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ViniciusLuz99&&style=flat-square" align="left" /> 
 </div>  
-<!-- teste-->
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/sony/336/flag-brazil_1f1e7-1f1f7.png">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusluz99&show_icons=true&locale=en&layout=compact" alt="viniciusluz99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusluz99&show_icons=true&locale=en" alt="viniciusluz99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusluz99&" alt="viniciusluz99" /></p>
 
 
