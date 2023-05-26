@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Vinicius Luz!  
 - 📘 I’m currently learning HTML, CSS and Javascript 
+ <img height="150px" src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+
 ----
 
   
