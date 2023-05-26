@@ -8,9 +8,10 @@
   <a href="https://github.com/ViniciusLuz99">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ViniciusLuz99&show_icons=true&include_all_commits=true&count_private=true&theme=dark&amp"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLuz99&layout=compact&langs_count=7&theme=dark&amp"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusluz99&theme=dark&amp" alt="viniciusluz99" /></p>
 </div>
 <!-- teste-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusluz99&" alt="viniciusluz99" /></p>
+
 
 
 <!--Linguagens que vc sabe usar-->
